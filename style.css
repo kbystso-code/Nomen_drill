@@ -37,6 +37,26 @@ body {
 
 h1 { margin: 0; font-size: clamp(2rem, 6vw, 3rem); }
 
+.back-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 52px;
+  max-width: 100%;
+  margin-bottom: 24px;
+  padding: 10px 16px;
+  border: 2px solid var(--border);
+  border-radius: 12px;
+  color: var(--accent);
+  font-size: 1.125rem;
+  font-weight: 600;
+  text-decoration: none;
+  touch-action: manipulation;
+}
+
+.back-link:hover { background: #edf3f8; }
+.back-link:focus-visible { outline: 3px solid var(--accent); outline-offset: 4px; }
+
 .noun {
   margin: 32px 0;
   font-size: clamp(2.5rem, 9vw, 4rem);
