@@ -1,0 +1,804 @@
+{
+  "nouns": [
+    {
+      "noun": "Mann",
+      "article": "der"
+    },
+    {
+      "noun": "Frau",
+      "article": "die"
+    },
+    {
+      "noun": "Kind",
+      "article": "das"
+    },
+    {
+      "noun": "Junge",
+      "article": "der"
+    },
+    {
+      "noun": "Mädchen",
+      "article": "das"
+    },
+    {
+      "noun": "Vater",
+      "article": "der"
+    },
+    {
+      "noun": "Mutter",
+      "article": "die"
+    },
+    {
+      "noun": "Bruder",
+      "article": "der"
+    },
+    {
+      "noun": "Schwester",
+      "article": "die"
+    },
+    {
+      "noun": "Großvater",
+      "article": "der"
+    },
+    {
+      "noun": "Großmutter",
+      "article": "die"
+    },
+    {
+      "noun": "Freund",
+      "article": "der"
+    },
+    {
+      "noun": "Freundin",
+      "article": "die"
+    },
+    {
+      "noun": "Nachbar",
+      "article": "der"
+    },
+    {
+      "noun": "Nachbarin",
+      "article": "die"
+    },
+    {
+      "noun": "Lehrer",
+      "article": "der"
+    },
+    {
+      "noun": "Lehrerin",
+      "article": "die"
+    },
+    {
+      "noun": "Schüler",
+      "article": "der"
+    },
+    {
+      "noun": "Schülerin",
+      "article": "die"
+    },
+    {
+      "noun": "Arzt",
+      "article": "der"
+    },
+    {
+      "noun": "Ärztin",
+      "article": "die"
+    },
+    {
+      "noun": "Mensch",
+      "article": "der"
+    },
+    {
+      "noun": "Familie",
+      "article": "die"
+    },
+    {
+      "noun": "Name",
+      "article": "der"
+    },
+    {
+      "noun": "Baby",
+      "article": "das"
+    },
+    {
+      "noun": "Schule",
+      "article": "die"
+    },
+    {
+      "noun": "Klasse",
+      "article": "die"
+    },
+    {
+      "noun": "Klassenzimmer",
+      "article": "das"
+    },
+    {
+      "noun": "Tisch",
+      "article": "der"
+    },
+    {
+      "noun": "Stuhl",
+      "article": "der"
+    },
+    {
+      "noun": "Buch",
+      "article": "das"
+    },
+    {
+      "noun": "Heft",
+      "article": "das"
+    },
+    {
+      "noun": "Bleistift",
+      "article": "der"
+    },
+    {
+      "noun": "Kugelschreiber",
+      "article": "der"
+    },
+    {
+      "noun": "Füller",
+      "article": "der"
+    },
+    {
+      "noun": "Radiergummi",
+      "article": "der"
+    },
+    {
+      "noun": "Lineal",
+      "article": "das"
+    },
+    {
+      "noun": "Schere",
+      "article": "die"
+    },
+    {
+      "noun": "Tasche",
+      "article": "die"
+    },
+    {
+      "noun": "Rucksack",
+      "article": "der"
+    },
+    {
+      "noun": "Tafel",
+      "article": "die"
+    },
+    {
+      "noun": "Papier",
+      "article": "das"
+    },
+    {
+      "noun": "Blatt",
+      "article": "das"
+    },
+    {
+      "noun": "Aufgabe",
+      "article": "die"
+    },
+    {
+      "noun": "Frage",
+      "article": "die"
+    },
+    {
+      "noun": "Antwort",
+      "article": "die"
+    },
+    {
+      "noun": "Wort",
+      "article": "das"
+    },
+    {
+      "noun": "Satz",
+      "article": "der"
+    },
+    {
+      "noun": "Zahl",
+      "article": "die"
+    },
+    {
+      "noun": "Pause",
+      "article": "die"
+    },
+    {
+      "noun": "Haus",
+      "article": "das"
+    },
+    {
+      "noun": "Wohnung",
+      "article": "die"
+    },
+    {
+      "noun": "Zimmer",
+      "article": "das"
+    },
+    {
+      "noun": "Küche",
+      "article": "die"
+    },
+    {
+      "noun": "Bad",
+      "article": "das"
+    },
+    {
+      "noun": "Schlafzimmer",
+      "article": "das"
+    },
+    {
+      "noun": "Wohnzimmer",
+      "article": "das"
+    },
+    {
+      "noun": "Tür",
+      "article": "die"
+    },
+    {
+      "noun": "Fenster",
+      "article": "das"
+    },
+    {
+      "noun": "Wand",
+      "article": "die"
+    },
+    {
+      "noun": "Boden",
+      "article": "der"
+    },
+    {
+      "noun": "Decke",
+      "article": "die"
+    },
+    {
+      "noun": "Schrank",
+      "article": "der"
+    },
+    {
+      "noun": "Regal",
+      "article": "das"
+    },
+    {
+      "noun": "Bett",
+      "article": "das"
+    },
+    {
+      "noun": "Teppich",
+      "article": "der"
+    },
+    {
+      "noun": "Lampe",
+      "article": "die"
+    },
+    {
+      "noun": "Spiegel",
+      "article": "der"
+    },
+    {
+      "noun": "Uhr",
+      "article": "die"
+    },
+    {
+      "noun": "Schlüssel",
+      "article": "der"
+    },
+    {
+      "noun": "Telefon",
+      "article": "das"
+    },
+    {
+      "noun": "Computer",
+      "article": "der"
+    },
+    {
+      "noun": "Fernseher",
+      "article": "der"
+    },
+    {
+      "noun": "Waschmaschine",
+      "article": "die"
+    },
+    {
+      "noun": "Kühlschrank",
+      "article": "der"
+    },
+    {
+      "noun": "Brot",
+      "article": "das"
+    },
+    {
+      "noun": "Brötchen",
+      "article": "das"
+    },
+    {
+      "noun": "Butter",
+      "article": "die"
+    },
+    {
+      "noun": "Käse",
+      "article": "der"
+    },
+    {
+      "noun": "Milch",
+      "article": "die"
+    },
+    {
+      "noun": "Wasser",
+      "article": "das"
+    },
+    {
+      "noun": "Saft",
+      "article": "der"
+    },
+    {
+      "noun": "Tee",
+      "article": "der"
+    },
+    {
+      "noun": "Kakao",
+      "article": "der"
+    },
+    {
+      "noun": "Apfel",
+      "article": "der"
+    },
+    {
+      "noun": "Banane",
+      "article": "die"
+    },
+    {
+      "noun": "Orange",
+      "article": "die"
+    },
+    {
+      "noun": "Birne",
+      "article": "die"
+    },
+    {
+      "noun": "Erdbeere",
+      "article": "die"
+    },
+    {
+      "noun": "Kartoffel",
+      "article": "die"
+    },
+    {
+      "noun": "Tomate",
+      "article": "die"
+    },
+    {
+      "noun": "Gurke",
+      "article": "die"
+    },
+    {
+      "noun": "Karotte",
+      "article": "die"
+    },
+    {
+      "noun": "Salat",
+      "article": "der"
+    },
+    {
+      "noun": "Suppe",
+      "article": "die"
+    },
+    {
+      "noun": "Ei",
+      "article": "das"
+    },
+    {
+      "noun": "Fleisch",
+      "article": "das"
+    },
+    {
+      "noun": "Gemüse",
+      "article": "das"
+    },
+    {
+      "noun": "Reis",
+      "article": "der"
+    },
+    {
+      "noun": "Nudel",
+      "article": "die"
+    },
+    {
+      "noun": "Hund",
+      "article": "der"
+    },
+    {
+      "noun": "Katze",
+      "article": "die"
+    },
+    {
+      "noun": "Pferd",
+      "article": "das"
+    },
+    {
+      "noun": "Vogel",
+      "article": "der"
+    },
+    {
+      "noun": "Fisch",
+      "article": "der"
+    },
+    {
+      "noun": "Hamster",
+      "article": "der"
+    },
+    {
+      "noun": "Kaninchen",
+      "article": "das"
+    },
+    {
+      "noun": "Maus",
+      "article": "die"
+    },
+    {
+      "noun": "Kuh",
+      "article": "die"
+    },
+    {
+      "noun": "Schwein",
+      "article": "das"
+    },
+    {
+      "noun": "Schaf",
+      "article": "das"
+    },
+    {
+      "noun": "Ziege",
+      "article": "die"
+    },
+    {
+      "noun": "Elefant",
+      "article": "der"
+    },
+    {
+      "noun": "Löwe",
+      "article": "der"
+    },
+    {
+      "noun": "Tiger",
+      "article": "der"
+    },
+    {
+      "noun": "Bär",
+      "article": "der"
+    },
+    {
+      "noun": "Affe",
+      "article": "der"
+    },
+    {
+      "noun": "Giraffe",
+      "article": "die"
+    },
+    {
+      "noun": "Zebra",
+      "article": "das"
+    },
+    {
+      "noun": "Baum",
+      "article": "der"
+    },
+    {
+      "noun": "Blume",
+      "article": "die"
+    },
+    {
+      "noun": "Gras",
+      "article": "das"
+    },
+    {
+      "noun": "Wald",
+      "article": "der"
+    },
+    {
+      "noun": "Berg",
+      "article": "der"
+    },
+    {
+      "noun": "Fluss",
+      "article": "der"
+    },
+    {
+      "noun": "Meer",
+      "article": "das"
+    },
+    {
+      "noun": "Stadt",
+      "article": "die"
+    },
+    {
+      "noun": "Dorf",
+      "article": "das"
+    },
+    {
+      "noun": "Straße",
+      "article": "die"
+    },
+    {
+      "noun": "Weg",
+      "article": "der"
+    },
+    {
+      "noun": "Platz",
+      "article": "der"
+    },
+    {
+      "noun": "Park",
+      "article": "der"
+    },
+    {
+      "noun": "Spielplatz",
+      "article": "der"
+    },
+    {
+      "noun": "Bahnhof",
+      "article": "der"
+    },
+    {
+      "noun": "Haltestelle",
+      "article": "die"
+    },
+    {
+      "noun": "Flughafen",
+      "article": "der"
+    },
+    {
+      "noun": "Bus",
+      "article": "der"
+    },
+    {
+      "noun": "Zug",
+      "article": "der"
+    },
+    {
+      "noun": "Auto",
+      "article": "das"
+    },
+    {
+      "noun": "Fahrrad",
+      "article": "das"
+    },
+    {
+      "noun": "Bahn",
+      "article": "die"
+    },
+    {
+      "noun": "Taxi",
+      "article": "das"
+    },
+    {
+      "noun": "Brücke",
+      "article": "die"
+    },
+    {
+      "noun": "Kirche",
+      "article": "die"
+    },
+    {
+      "noun": "Geschäft",
+      "article": "das"
+    },
+    {
+      "noun": "Supermarkt",
+      "article": "der"
+    },
+    {
+      "noun": "Bäckerei",
+      "article": "die"
+    },
+    {
+      "noun": "Restaurant",
+      "article": "das"
+    },
+    {
+      "noun": "Krankenhaus",
+      "article": "das"
+    },
+    {
+      "noun": "Polizei",
+      "article": "die"
+    },
+    {
+      "noun": "Post",
+      "article": "die"
+    },
+    {
+      "noun": "Kopf",
+      "article": "der"
+    },
+    {
+      "noun": "Gesicht",
+      "article": "das"
+    },
+    {
+      "noun": "Auge",
+      "article": "das"
+    },
+    {
+      "noun": "Ohr",
+      "article": "das"
+    },
+    {
+      "noun": "Nase",
+      "article": "die"
+    },
+    {
+      "noun": "Mund",
+      "article": "der"
+    },
+    {
+      "noun": "Zahn",
+      "article": "der"
+    },
+    {
+      "noun": "Hals",
+      "article": "der"
+    },
+    {
+      "noun": "Arm",
+      "article": "der"
+    },
+    {
+      "noun": "Hand",
+      "article": "die"
+    },
+    {
+      "noun": "Finger",
+      "article": "der"
+    },
+    {
+      "noun": "Bauch",
+      "article": "der"
+    },
+    {
+      "noun": "Rücken",
+      "article": "der"
+    },
+    {
+      "noun": "Bein",
+      "article": "das"
+    },
+    {
+      "noun": "Fuß",
+      "article": "der"
+    },
+    {
+      "noun": "Herz",
+      "article": "das"
+    },
+    {
+      "noun": "Jacke",
+      "article": "die"
+    },
+    {
+      "noun": "Hose",
+      "article": "die"
+    },
+    {
+      "noun": "T-Shirt",
+      "article": "das"
+    },
+    {
+      "noun": "Pullover",
+      "article": "der"
+    },
+    {
+      "noun": "Schuh",
+      "article": "der"
+    },
+    {
+      "noun": "Socke",
+      "article": "die"
+    },
+    {
+      "noun": "Mütze",
+      "article": "die"
+    },
+    {
+      "noun": "Mantel",
+      "article": "der"
+    },
+    {
+      "noun": "Kleid",
+      "article": "das"
+    },
+    {
+      "noun": "Tag",
+      "article": "der"
+    },
+    {
+      "noun": "Woche",
+      "article": "die"
+    },
+    {
+      "noun": "Monat",
+      "article": "der"
+    },
+    {
+      "noun": "Jahr",
+      "article": "das"
+    },
+    {
+      "noun": "Morgen",
+      "article": "der"
+    },
+    {
+      "noun": "Mittag",
+      "article": "der"
+    },
+    {
+      "noun": "Abend",
+      "article": "der"
+    },
+    {
+      "noun": "Nacht",
+      "article": "die"
+    },
+    {
+      "noun": "Stunde",
+      "article": "die"
+    },
+    {
+      "noun": "Minute",
+      "article": "die"
+    },
+    {
+      "noun": "Zeit",
+      "article": "die"
+    },
+    {
+      "noun": "Sommer",
+      "article": "der"
+    },
+    {
+      "noun": "Winter",
+      "article": "der"
+    },
+    {
+      "noun": "Frühling",
+      "article": "der"
+    },
+    {
+      "noun": "Herbst",
+      "article": "der"
+    },
+    {
+      "noun": "Sonne",
+      "article": "die"
+    },
+    {
+      "noun": "Regen",
+      "article": "der"
+    },
+    {
+      "noun": "Schnee",
+      "article": "der"
+    },
+    {
+      "noun": "Wind",
+      "article": "der"
+    },
+    {
+      "noun": "Wetter",
+      "article": "das"
+    },
+    {
+      "noun": "Spiel",
+      "article": "das"
+    },
+    {
+      "noun": "Ball",
+      "article": "der"
+    },
+    {
+      "noun": "Musik",
+      "article": "die"
+    },
+    {
+      "noun": "Geschichte",
+      "article": "die"
+    }
+  ]
+}

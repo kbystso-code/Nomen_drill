@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Nomen Drill</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <main class="drill">
+    <h1>Nomen Drill</h1>
+    <p id="storage-notice" class="notice" role="status" hidden></p>
+    <section id="question" aria-labelledby="stage">
+      <h2 id="stage">Hauptrunde</h2>
+      <p id="progress" class="progress" aria-live="polite"></p>
+      <p>Wähle den richtigen Artikel.</p>
+      <div id="noun" class="noun" aria-live="polite">Wird geladen…</div>
+      <div class="articles" role="group" aria-label="Artikel auswählen">
+        <button type="button" data-article="der" disabled>der</button>
+        <button type="button" data-article="die" disabled>die</button>
+        <button type="button" data-article="das" disabled>das</button>
+      </div>
+      <p id="feedback" class="feedback" role="status" aria-live="polite"></p>
+      <button id="next" class="next" type="button" disabled>Nächste Aufgabe</button>
+    </section>
+    <section id="main-result" aria-labelledby="main-title" tabindex="-1" hidden>
+      <h2 id="main-title">Ergebnis der Hauptrunde</h2>
+      <p id="main-summary" class="summary"></p>
+      <p>Übe jedes dieser Wörter jetzt noch einmal.</p>
+      <h3>Deine Fehler</h3>
+      <ul id="mistakes" class="mistake-list"></ul>
+      <button id="review-start" class="next" type="button">Wiederholung starten</button>
+    </section>
+    <section id="final-result" aria-labelledby="final-title" tabindex="-1" hidden>
+      <h2 id="final-title">Runde abgeschlossen!</h2>
+      <h3>Hauptrunde</h3>
+      <p id="final-summary" class="summary"></p>
+      <h3>Wiederholung</h3>
+      <p id="review-summary"></p>
+      <h3>Diese Wörter übst du in der nächsten Runde zuerst</h3>
+      <p id="carryover-count"></p>
+      <ul id="carryover-list" class="carryover-list"></ul>
+      <button id="restart" class="next" type="button">Noch einmal 40 Aufgaben</button>
+    </section>
+    <noscript><p>Bitte aktiviere JavaScript, um diese App zu nutzen.</p></noscript>
+  </main>
+</body>
+</html>
